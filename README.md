@@ -40,16 +40,16 @@ The CTX-Excel module requires the following files:
 * [CTX-Excel Studio Package]()
 
 ### Other Requisites
-The CTX-Excel module has the following additional requirements which are explained in detail in the [Deployment Plan]():
+The CTX-Excel module has the following additional requirements which are explained in detail in the [Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-Excel/blob/master/CTX-Excel%20-%20Deployment%20Plan.pdf):
 * PowerShell v5 to be installed on the application server
 * PSExcel PowerShell module installed
 * ImportExcel PowerShell module installed
 
 ## Installation
-Details of how the module should be imported into Cortex can be found in the [Deployment Plan]().
+Details of how the module should be imported into Cortex can be found in the [Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-Excel/blob/master/CTX-Excel%20-%20Deployment%20Plan.pdf).
 
 ## How to use
-A detailed User Guide has been provided with instructions on how to use the module, available [here](). Configuration of each flow/subtask's inputs and outputs are detailed in notes on the flow/subtask workspace.
+A detailed User Guide has been provided with instructions on how to use the module, available [here](https://github.com/CortexIntelligentAutomation/CTX-Excel/blob/master/CTX-Excel%20-%20User%20Guide.pdf). Configuration of each flow/subtask's inputs and outputs are detailed in notes on the flow/subtask workspace.
 
 ## How you can contribute
 Unfortunately, we cannot offer pull requests at this time or accept any improvements.
