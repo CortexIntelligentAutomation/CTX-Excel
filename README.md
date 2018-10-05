@@ -37,7 +37,7 @@ The CTX-Excel module requires the following Cortex OCIs:
 
 ### Files
 The CTX-Excel module requires the following files:
-* [CTX-Excel Studio Package]()
+* [CTX-Excel Studio Package](https://github.com/CortexIntelligentAutomation/CTX-Excel/releases/download/v2.3/CTX-Excel.studiopkg)
 
 ### Other Requisites
 The CTX-Excel module has the following additional requirements which are explained in detail in the [Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-Excel/blob/master/CTX-Excel%20-%20Deployment%20Plan.pdf):
