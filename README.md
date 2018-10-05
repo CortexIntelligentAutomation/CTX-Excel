@@ -1,4 +1,4 @@
-<a href="https://www.cortex-ia.co.uk/" target="_blank"><img src="https://github.com/CortexIATest/CTXImages/blob/master/Cortex-350-120.png" alt="Welcome to Cortex!" width="350" height="120" border="0"></a>
+<a href="https://www.cortex-ia.com/" target="_blank"><img src="https://github.com/CortexIATest/CTXImages/blob/master/Cortex-350-120.png" alt="Welcome to Cortex!" width="350" height="120" border="0"></a>
 
 # CTX-Excel
 Cortex Subtasks which interact with Microsoft Excel without requiring Microsoft Excel to be installed on the Cortex application server.
@@ -37,19 +37,19 @@ The CTX-Excel module requires the following Cortex OCIs:
 
 ### Files
 The CTX-Excel module requires the following files:
-* [CTX-Excel Studio Package](https://github.com/CortexIntelligentAutomation/CTX-Excel/releases/download/untagged-735f460df6f7d65c9d19/Cortex.Studio.Package.-.V2.3.studiopkg)
+* [CTX-Excel Studio Package]()
 
 ### Other Requisites
-The CTX-Excel module has the following additional requirements which are explained in detail in the [Deployment Plan](#Installation):
+The CTX-Excel module has the following additional requirements which are explained in detail in the [Deployment Plan]():
 * PowerShell v5 to be installed on the application server
 * PSExcel PowerShell module installed
 * ImportExcel PowerShell module installed
 
 ## Installation
-Details of how the module should be imported into Cortex can be found in the [Deployment Plan](#Installation).
+Details of how the module should be imported into Cortex can be found in the [Deployment Plan]().
 
 ## How to use
-A detailed User Guide has been provided with instructions on how to use the module, available [here](https://github.com/CortexIATest/CTXExcel/blob/master/CTX-Excel%20-%20User%20Guide.docx). Configuration of each flow/subtask's inputs and outputs are detailed in notes on the flow/subtask workspace.
+A detailed User Guide has been provided with instructions on how to use the module, available [here](). Configuration of each flow/subtask's inputs and outputs are detailed in notes on the flow/subtask workspace.
 
 ## How you can contribute
 Unfortunately, we cannot offer pull requests at this time or accept any improvements.
