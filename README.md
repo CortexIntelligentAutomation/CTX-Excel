@@ -9,8 +9,10 @@ The module allows users to perform the following functionality:
 * Create Pivot Tables
 * Create Workbook
 * Create Worksheet
+* Get Worksheets
 * Insert Headers
 * Insert Rows
+* Read Data from Worksheet
 * Set Cell
 * Set Cell Where
 
@@ -59,11 +61,14 @@ The CTX-Excel module has the following versions, starting with the most recent:
 
 Version | Release | Functionality | Notes
 ------------ | ------------- | ----------- | -----------
+v2.4 | 22/01/2020 | Get Worksheets | Created
+v2.4 | 22/01/2020 | Read Data from Worksheet | Fixed Bugs
 v2.3 | 25/09/2018 | Create Pivot Tables | Fixed Bugs
 v2.3 | 25/09/2018 | Create Pivot Charts | Fixed Bugs
 v2.2 | 05/01/2018 | Add Conditional Formatting | Created
 v2.1 | 21/11/2017 | Create Pivot Charts | Created
 v2.0 | 16/11/2017 | Create Pivot Tables | Created
+v1.0 | 12/05/2017 | Read Data from Worksheet | Created
 v1.0 | 12/05/2017 | Create Workbook | Created
 v1.0 | 12/05/2017 | Create Worksheet | Created
 v1.0 | 12/05/2017 | Insert Headers | Created
